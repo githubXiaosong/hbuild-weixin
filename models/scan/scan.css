@@ -1,0 +1,41 @@
+.mui-bar .mui-pull-right{
+	padding-top: 12px;
+}
+
+
+header.mui-bar{
+	background-color: #000000;
+} 
+
+
+
+header.mui-bar h1 {
+	color: #FFFFFF;
+	font-weight: 600;
+}
+
+
+header.mui-bar a {
+	color: #FFFFFF;
+}
+
+.mui-bar-tab .mui-tab-item.mui-active {
+	color: #40bd39;
+}
+
+nav.mui-bar{
+	background-color: #000000;
+}
+
+.mui-title{
+	text-align: left;
+	padding-left: 10px;
+}
+
+nav.mui-bar {
+	height: 80px;
+}
+
+#bcode{
+	position: absolute; top: 44px; bottom: 80px; width: 100%; background: #000000;
+}

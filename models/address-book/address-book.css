@@ -1,0 +1,19 @@
+html,body {
+	height: 100%;
+	overflow: hidden;
+}
+.mui-bar {
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+
+.mui-table-view div{
+	line-height: 2.5;
+}
+
+/*不加空格接着写是并列关系 加空格是从属关系 逗号是或者关系*/
+.mui-indexed-list-bar,.mui-indexed-list-bar.active{
+	background-color: transparent;
+}
+
+

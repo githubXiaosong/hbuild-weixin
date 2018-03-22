@@ -1,0 +1,103 @@
+{
+	"models/login/login.html": {
+		"resources": [
+			"models/login/login.css",
+			"models/login/login.js",
+			"common/mui.js",
+			"common/mui.css",
+			"common/fonts/mui.ttf"
+		],
+		"refer": [
+			"models/main/main.html"
+		]
+	},
+	"models/discover/discover.html": {
+		"resources": [
+			"img/shake.png",
+			"img/avatar.png",
+			"img/frientcircul.png",
+			"img/game.png",
+			"models/discover/discover.js",
+			"img/scane.png",
+			"img/neighbor.png",
+			"img/shopping.png",
+			"models/discover/discover.css"
+		],
+		"refer": [
+			"models/shake/shake.html",
+			"models/scan/scan.html"
+		]
+	},
+	"models/mine/mine.html": {
+		"resources": [
+			"img/collect.png",
+			"img/cardholder.png",
+			"img/QRCode.png",
+			"img/album.png",
+			"models/mine/mine.js",
+			"models/mine/mine.css",
+			"img/wallet.png",
+			"img/emotion.png",
+			"img/setting.png",
+			"img/avatar.png"
+		]
+	},
+	"models/main/main.html": {
+		"resources": [
+			"models/message/message.html",
+			"models/main/main.css",
+			"models/main/main.js",
+			"common/fonts/iconfont.css",
+			"common/fonts/mui.ttf",
+			"common/mui.js",
+			"common/mui.css"
+		],
+		"refer": [
+			"models/discover/discover.html",
+			"models/mine/mine.html",
+			"models/address-book/address-book.html",
+			"models/message/message.html"
+		]
+	},
+	"models/address-book/address-book.html": {
+		"resources": [
+			"common/mui.indexedlist.css",
+			"models/address-book/address-book.js",
+			"common/mui.indexedlist.js",
+			"models/address-book/address-book.css",
+			"img/avatar.png",
+			"common/fonts/mui.ttf",
+			"common/mui.js",
+			"common/mui.css"
+		]
+	},
+	"models/message/message.html": {
+		"resources": [
+			"models/message/message.js",
+			"models/message/message.css",
+			"img/avatar.png"
+		]
+	},
+	"models/shake/shake.html": {
+		"resources": [
+			"img/shake_top.png",
+			"models/shake/shake.css",
+			"models/shake/shake.js",
+			"img/shake_bottom.png",
+			"common/fonts/mui.ttf",
+			"common/mui.js",
+			"common/mui.css",
+			"img/shake_back.png"
+		]
+	},
+	"models/scan/scan.html": {
+		"resources": [
+			"models/scan/scan.js",
+			"models/scan/scan.css",
+			"common/fonts/mui.ttf",
+			"common/mui.js",
+			"common/mui.css",
+			"common/fonts/iconfont.css"
+		]
+	}
+}

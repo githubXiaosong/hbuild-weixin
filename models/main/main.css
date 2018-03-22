@@ -1,0 +1,31 @@
+.mui-bar .mui-title{
+	left: 20px;
+}
+
+.mui-bar-nav.mui-bar .mui-icon {
+	margin-left: 0;
+	margin-right: 0;
+}
+
+header.mui-bar {
+	background-color: #000000;
+} 
+
+
+header.mui-bar h1 {
+	color: #FFFFFF;
+	font-weight: 600;
+}
+
+
+header.mui-bar a {
+	color: #FFFFFF;
+}
+
+.mui-bar-tab .mui-tab-item.mui-active {
+	color: #40bd39;
+}
+
+nav.mui-bar{
+	background-color: #f6f6f8;
+}
